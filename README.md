@@ -6,7 +6,7 @@ An eCommerce app. This app is made using React, Redux(persist) etc. In this app 
 
 ## Author
 
-- [@Abhishek Kumar](https://www.github.com/abhikunu007)
+- [@Kailash Toshniwal](https://www.github.com/Kailash199801)
 
 
 ## Deployment
